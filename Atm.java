@@ -52,7 +52,7 @@ public class Atm{
                     admin.displayBalance(accountNumber);
                     break;
                 case 4:
-                    System.out.println("Exiting...");
+                    System.out.println("Exiting.");
                     break;
                 default:
                     System.out.println("Invalid choice.");
